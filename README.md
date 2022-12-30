@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @apekshik (Apekshik Panigrahi) 
 🏫 I'm a Computer Science Major at the University of Minnesota Twin Cities (UMN-TC). I'm also an ✈️international student from India! 
-- 👀 I’m interested in: Entrepreneurship, Quantum Mechanics, iOS App Development, ML, and Psychology.
+- 👀 I’m interested in: Entrepreneurship, Quantum Mechanics, iOS App Development, AI, and Psychology.
 
 🌱 I’m currently working on 
-1) BOUJÈ: A Social Media App where friends share information about each other than themselves. 
-2) ASTERISK: A content creation App for artists (fashion designesr, graphic designers, painters, musicians... and more) of the world. 
-3) Black: A new programming language that builds off of swift and C++. 
-4) Afini: An app that allows artists to build a digital "wall" of their work and post it online for others to explore! 
+1) **BOUJÈ**: A Social Media App where friends share information about each other than themselves. 
+2) **ASTERISK**: A content creation App for artists (fashion designesr, graphic designers, painters, musicians... and more) of the world. 
+3) **Black**: A new programming language that builds off of swift and C++. 
+4) **Afini**: An app that allows artists to build a digital "wall" of their work and post it online for others to explore! 
 
 🔬 What I'm proficient at
 - Physics and Math (like really good) :)  
