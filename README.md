@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @apekshik (Apekshik Panigrahi) 
-🏫 I'm a Computer Science Major at the University of Minnesota Twin Cities (UMN-TC). I'm also an ✈️international student from India! 
+- 🏛️ my personal portfolio website: [apekshik.lol](https://apekshik.lol) (only the blog works right now. Will add other links soon!)
+- 🏫 I'm a Computer Science Major at the University of Minnesota Twin Cities (UMN-TC). I'm also an ✈️ international student from India! 
 - 👀 I’m interested in: Entrepreneurship, Quantum Mechanics, iOS App Development, AI, and Psychology.
 
 🌱 I’m currently working on 
@@ -29,11 +30,10 @@
 - Guitar and Piano
 
 
-- 💞️ I’m looking to collaborate on all the aforementioned projects :) 
-
-- 📫 How to reach me:
-email: apekshik@gmail.com 
-instagram: EpicShit™️ @apekshik 
+💞️ I’m looking to collaborate on all the aforementioned projects :) 
+📫 How to reach me:
+- email: apekshik@gmail.com 
+- instagram: EpicShit™️ @apekshik 
 
 <!---
 apekshik/apekshik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
