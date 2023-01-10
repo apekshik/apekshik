@@ -4,7 +4,7 @@
 - 👀 I’m interested in: Entrepreneurship, Quantum Mechanics, iOS App Development, AI, and Psychology.
 
 🌱 I’m currently working on 
-1) **BOUJÈ**: A Social Media App where friends share information about each other than themselves. 
+1) **BOUJÈ**: A Social Media App where one can only post on each others profiles and not his own. 
 2) **ASTERISK**: A content creation App for artists (fashion designesr, graphic designers, painters, musicians... and more) of the world. 
 3) **Black**: A new programming language that builds off of swift and C++. 
 4) **Afini**: An app that allows artists to build a digital "wall" of their work and post it online for others to explore! 
