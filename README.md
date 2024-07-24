@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apekshik (Apekshik Panigrahi) 
-- 🏛️ my personal portfolio website: [apekshik.lol](https://apekshik.lol) (only the blog works right now. Will add other links soon!)
+- 🏛️ my personal portfolio website: [apekshik.com](https://www.apekshik.com) (only the blog works right now. Will add other links soon!)
 - 🏫 I'm a Computer Science Major at the University of Minnesota Twin Cities (UMN-TC). I'm also an ✈️ international student from India! 
 - 👀 I’m interested in: Entrepreneurship, Quantum Mechanics, iOS App Development, AI, and Psychology.
 
@@ -13,6 +13,7 @@
 - Physics and Math (like really good) :)  
 - Swift
 - Python
+- C#
 - Firebase
 - GCP (Google Cloud Platform)
 - TypeScript/JS 
