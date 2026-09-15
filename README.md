@@ -1,2 +1,1 @@
-Hi, I’m @apekshik (Apekshik Panigrahi) 
-my personal portfolio website: [apekshik.com](https://www.apekshik.com) 
+Hey, I’m Apekshik. I work on AI and machine learning at fal.ai and previously at SpaceXAI.
